@@ -1,0 +1,3 @@
+/home/kami/Downloads/02/build/CMakeFiles/dcgan.dir
+/home/kami/Downloads/02/build/CMakeFiles/edit_cache.dir
+/home/kami/Downloads/02/build/CMakeFiles/rebuild_cache.dir
